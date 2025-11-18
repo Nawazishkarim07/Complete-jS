@@ -14,3 +14,5 @@ console.log(url.replace('%20','-'))  // it replaces the value...
 
 console.log(url.includes('naw'))
 console.log(gameName.split(" "))
+
+// Many more methods and functions are ther on strings..
